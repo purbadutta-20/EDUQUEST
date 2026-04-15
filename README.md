@@ -49,7 +49,7 @@ eduquest/
 ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/your-username/eduquest.git
+git clone https://github.com/purbadutta-20/EDUQUEST.git
 cd eduquest
 npm install
 npm run dev
