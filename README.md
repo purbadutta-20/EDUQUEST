@@ -75,7 +75,7 @@ VITE_SUPABASE_ANON_KEY=your_anon_key
 
 🌐 Live Demo
 
-
+Link : (https://eduquest-peach-ten.vercel.app)**
 
 
 ⚠️ Notes
